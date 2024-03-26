@@ -1,0 +1,4 @@
+[2,"\n"]
+[1,"pandoc \n  to: html\n  output-file: desigualdad-pp.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  title: Desigualdad y Participación Política\n  author: Sivonney Lillo Godoy\n  editor: visual\n  bibliography:\n    - desigualdad-pp.bib\n  \n"]
+[1,"Output created: desigualdad-pp.html\n\nWatching files for changes\n"]
+[1,"Browse at http://localhost:6586/\n"]
